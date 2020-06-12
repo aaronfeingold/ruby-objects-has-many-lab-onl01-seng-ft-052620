@@ -13,6 +13,6 @@ class Song
   end
   
   def add_song_by_name(name)
-    song
+    Song
   
 end 
